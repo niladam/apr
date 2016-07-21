@@ -14,7 +14,7 @@
 Summary: Apache Portable Runtime library
 Name: %{pkgname}
 Version: 1.5.2
-Release: 2%{?dist}
+Release: 666%{?dist}
 # ASL 2.0: everything
 # ISC: network_io/apr-1.4.6/network_io/unix/inet_?to?.c
 # BSD with advertising: strings/apr_snprintf.c, strings/apr_fnmatch.c,

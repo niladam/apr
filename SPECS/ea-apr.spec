@@ -32,7 +32,7 @@ Patch3: apr-1.2.2-libdir.patch
 Patch4: apr-1.2.7-pkgconf.patch
 
 # Symlink Protection Patch
-Patch101: symlink-protection.patch
+Patch101: apr-symlink-protection.patch
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires: autoconf, libtool, libuuid-devel, python
 # To enable SCTP support
